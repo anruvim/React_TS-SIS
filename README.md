@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/favicon.ico" alt="Logo" width="80" height="80">
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">Web Information System for Education</h3>
@@ -39,10 +39,12 @@ Point of Sale Web Application. Project manager and front-end developer.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot1]: images/Admin1.png
-[product-screenshot2]: images/Admin2.png
-[product-screenshot3]: images/Cashier1.png
-[product-screenshot4]: images/Cashier2.png
+[product-screenshot1]: images/WISE1.png
+[product-screenshot2]: images/WISE2.png
+[product-screenshot3]: images/WISE3.png
+[product-screenshot4]: images/WISE4.png
+[product-screenshot5]: images/WISE5.png
+[product-screenshot6]: images/WISE6.png
 [Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white
