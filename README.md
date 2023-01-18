@@ -34,7 +34,8 @@ Point of Sale Web Application. Project manager and front-end developer.
 ![Product Name Screen Shot][product-screenshot2]
 ![Product Name Screen Shot][product-screenshot3]
 ![Product Name Screen Shot][product-screenshot4]
-
+![Product Name Screen Shot][product-screenshot5]
+![Product Name Screen Shot][product-screenshot6]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
