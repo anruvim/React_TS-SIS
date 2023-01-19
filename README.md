@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/anruvim/wise">
-    <img src="images/icon.png" alt="Logo" width="100" height="100">
+    <img src="images/icon.png" alt="Logo" width="150" height="150">
   </a>
 
 <h1 align="center">Web Information System for Education</h3>
