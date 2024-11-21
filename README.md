@@ -11,15 +11,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Point of Sale Web Application. Project manager and front-end developer.
+Web application used by educational institution to manage and organize student-related data efficiently. It serves as a centralized hub for storing, accessing, and analyzing information about students.
 
-
-### Frontend is Built With
+##. Stack:
+### Frontend
 * [![Next][Typescript]][Typescript-url]
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![React][Chakra]][Chakra-url]
-### Backend is Built With
+### Backend
 * [![Flask][Flask]][Flask-url]
 * [![Flask][Postgre]][Postgre-url]
 
