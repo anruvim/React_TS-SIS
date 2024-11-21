@@ -5,11 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/anruvim/wise">
-    <img src="images/icon.png" alt="Logo" width="150" height="150">
-  </a>
-
-<h1 align="center">Web Information System for Education</h3>
+<h1 align="center">Student Information Systemn</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
