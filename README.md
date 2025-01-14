@@ -13,7 +13,7 @@
 
 Web application used by educational institution to manage and organize student-related data efficiently. It serves as a centralized hub for storing, accessing, and analyzing information about students.
 
-##. Stack:
+## Stack:
 ### Frontend
 * [![Next][Typescript]][Typescript-url]
 * [![Next][Next.js]][Next-url]
@@ -22,6 +22,10 @@ Web application used by educational institution to manage and organize student-r
 ### Backend
 * [![Flask][Flask]][Flask-url]
 * [![Flask][Postgre]][Postgre-url]
+
+## Features
+### Double-Token-Based Authentication System [![Read More][auth-uri]]
+This feature implements a robust token-based authentication system using refresh and access tokens to enhance security and protect against CSRF (Cross-Site Request Forgery) attacks. The system ensures that API requests can only be made from within the website, providing an additional layer of security.
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screen Shots
@@ -32,7 +36,6 @@ Web application used by educational institution to manage and organize student-r
 ![Product Name Screen Shot][product-screenshot4]
 ![Product Name Screen Shot][product-screenshot5]
 ![Product Name Screen Shot][product-screenshot6]
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -54,4 +57,4 @@ Web application used by educational institution to manage and organize student-r
 [Postgre-url]: https://www.postgresql.org/
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
-
+[auth-uri]: (auth-system/)
