@@ -24,7 +24,7 @@ Web application used by educational institution to manage and organize student-r
 * [![Flask][Postgre]][Postgre-url]
 
 ## Features
-### ![auth-icon](https://img.icons8.com/FFFFFF/shield =20x20) Double-Token-Based Authentication System
+### ![auth-icon](https://img.icons8.com/FFFFFF/shield) Double-Token-Based Authentication System
 This feature implements a robust token-based authentication system using refresh and access tokens to enhance security and protect against CSRF (Cross-Site Request Forgery) attacks. The system ensures that API requests can only be made from within the website, providing an additional layer of security.
 *[Read More](auth-system/)*
 
