@@ -24,8 +24,9 @@ Web application used by educational institution to manage and organize student-r
 * [![Flask][Postgre]][Postgre-url]
 
 ## Features
-### Double-Token-Based Authentication System [![Read More][auth-uri]]
+### ![auth-icon](https://img.icons8.com/FFFFFF/shield) Double-Token-Based Authentication System
 This feature implements a robust token-based authentication system using refresh and access tokens to enhance security and protect against CSRF (Cross-Site Request Forgery) attacks. The system ensures that API requests can only be made from within the website, providing an additional layer of security.
+*![Read More](auth-system/)*
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screen Shots
@@ -57,4 +58,3 @@ This feature implements a robust token-based authentication system using refresh
 [Postgre-url]: https://www.postgresql.org/
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
-[auth-uri]: (auth-system/)
