@@ -28,8 +28,8 @@ Web application used by educational institution to manage and organize student-r
 This feature implements a robust token-based authentication system using refresh and access tokens to enhance security and protect against CSRF (Cross-Site Request Forgery) attacks. The system ensures that API requests can only be made from within the website, providing an additional layer of security.
 *[View code](auth-system/)*
 
-### ![auth-icon](https://img.icons8.com/?size=16&id=30694&format=png&color=ffffff) Flexible Access System
-This feature implements a robust token-based authentication system using refresh and access tokens to enhance security and protect against CSRF (Cross-Site Request Forgery) attacks. The system ensures that API requests can only be made from within the website, providing an additional layer of security.
+### ![auth-icon](https://img.icons8.com/?size=16&id=30694&format=png&color=ffffff) Flexible User Access System
+Our flexible user access system is designed to provide dynamic and manageable access control for users. Unlike hardcoded access, this system allows administrators to manage user permissions at any time through an intuitive interface.
 *[View code](access-system/)*
 
 <!-- ABOUT THE PROJECT -->
