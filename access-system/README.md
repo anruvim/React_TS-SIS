@@ -13,3 +13,8 @@ Our flexible user access system is designed to provide dynamic and manageable ac
    - **Granular Permissions**: Administrators can set Read, Write, and Delete permissions for each path, ensuring users can only view and access the links they are authorized to.
 
 This system provides a robust and flexible way to manage user access, ensuring security and ease of administration.
+
+![Product Name Screen Shot][product-screenshot4]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot4]: ../images/WISE4.png
